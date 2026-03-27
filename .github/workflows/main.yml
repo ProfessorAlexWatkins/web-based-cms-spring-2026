@@ -18,7 +18,7 @@ jobs:
         uses: markdown-confluence/publish-action@v5
         with:
           confluenceBaseUrl: "https://awaysonwatkins.atlassian.net"
-          confluenceParentId: "1277953"
+          confluenceParentId: "1048578"
           atlassianUserName: ${{ secrets.CONFLUENCE_EMAIL }}
           atlassianApiToken: ${{ secrets.CONFLUENCE_API_TOKEN }}
           folderToPublish: "docs"
