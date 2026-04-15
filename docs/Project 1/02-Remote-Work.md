@@ -6,9 +6,13 @@ tags: [hr, remote-work, wfh, IT]
 ---
 
 <h1>Remote Work Policy</h1>
-<p>Employees are allowed to work from home on Fridays.</p>
+<p>Employees are allowed to work from home on Fridays.Please use the VPN when you are working from home.</p>
 
 <h2>VPN Access</h2>
-<p>To access the file server from home, you need to download the Cisco client.</p>
-<p>For help getting set up, email sysadmin@acme.com.</p>
-
+<p>To access the file server from home,you need to set up Cisco and then log in via the VPN Network:
+  1. From file explorer, select the blue Cisco icon on your laptop.
+  2. Follow the promts to set up Cisco, this will allow you to log in to the VPN. 
+  3. When you work from home, log in via Cisco to access the VPN Network. 
+  4. Once logged in, you can acceess the online portal with your work.
+</p>
+<p>For help getting set up, email sysadmin@acme.com.</p> 
