@@ -11,8 +11,8 @@ tags: [hr, remote-work, wfh, IT]
 
 ```mermaid
  kanban
-  accTitle: Holiday schedule for 2026
-  accDescr: a graphic showing the days in 2026 where our offices will be closed due to a holiday.
+  Title: Holiday schedule for 2026
+   [Descr: a graphic showing the days in 2026 where our offices will be closed due to a holiday.]
   January
     [New Years Day]
   [May]
