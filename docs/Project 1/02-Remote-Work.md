@@ -17,4 +17,4 @@ tags: [hr, remote-work, wfh, IT]
   <li> Once logged in, you can acceess the online portal with your work.</li>
   </ol>
 </p>
-<p>For help getting set up, email sysadmin@acme.com.</p> 
+<p>For help getting set up, email sysadmin@acme.com.</p>  
