@@ -10,9 +10,10 @@ tags: [hr, remote-work, wfh, IT]
 
 <h2>VPN Access</h2>
 <p>To access the file server from home,you need to set up Cisco and then log in via the VPN Network:
+  <ol>
   1. From file explorer, select the blue Cisco icon on your laptop.
   2. Follow the promts to set up Cisco, this will allow you to log in to the VPN. 
   3. When you work from home, log in via Cisco to access the VPN Network. 
-  4. Once logged in, you can acceess the online portal with your work.
+  4. Once logged in, you can acceess the online portal with your work.</ol>
 </p>
 <p>For help getting set up, email sysadmin@acme.com.</p> 
