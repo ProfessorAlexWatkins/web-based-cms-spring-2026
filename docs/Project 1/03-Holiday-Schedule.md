@@ -26,4 +26,3 @@ tags: [hr, remote-work, wfh, IT]
     id2[Christmas Day]
     id3[Day after Christmas]
 
-
