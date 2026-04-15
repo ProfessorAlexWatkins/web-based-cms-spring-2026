@@ -7,7 +7,7 @@ tags: [hr, remote-work, wfh, IT]
 
 <h2>Holiday schedule</h2>
 
- <p>The office is typically closed on the days listed in the diagram below. </p>
+ <p>The office is typically closed on the days listed in the diagram below. If you need additional days off, you can request them by emailing your manager. We value work life balance here! So please don't hesitate to reach out with any time off requiests.  </p>
 
 ```mermaid
  kanban
