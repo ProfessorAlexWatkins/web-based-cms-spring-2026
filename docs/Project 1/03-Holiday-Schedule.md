@@ -5,7 +5,7 @@ audience: all-employees
 tags: [hr, remote-work, wfh, IT]
 ---
 
-<h2>Holiday Schedule</h2>
+<h2>Holiday schedule</h2>
 
  <p>The office is typically closed on the following days:</p>
 
