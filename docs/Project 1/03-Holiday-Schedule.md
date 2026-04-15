@@ -9,11 +9,11 @@ tags: [hr, remote-work, wfh, IT]
 
  <p>The office is typically closed on the days listed in the diagram below. </p>
 
- ### Deployment Flow
-The following diagram illustrates the deployment pipeline.
-[A detailed text description of the chart can be placed here for full accessibility.]
+
  ```mermaid
  kanban
+ accTitle: Holiday schedule for 2026
+ accDescr: a graphic showing the days in 2026 where our offices will be closed due to a holiday.
   January
     [New Years Day]
   [May]
