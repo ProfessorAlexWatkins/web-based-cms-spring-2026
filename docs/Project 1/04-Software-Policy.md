@@ -1,10 +1,10 @@
-
 ---
-title:  Software required
+title: Software 2026
 status: draft
 audience: all-employees
 tags: [hr, remote-work, wfh, IT]
 ---
+
 
 
 <h2>Software needed</h2>
