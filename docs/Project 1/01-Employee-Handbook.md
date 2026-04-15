@@ -18,7 +18,7 @@ This handbook includes information on employee expectations including:
    <li>Software policy</li> 
    <li>Kitchen expectations</li> 
  </ul>
-Welcome to the team! </p> </p>
+Welcome to the team! </p> </p> 
 
 
     
