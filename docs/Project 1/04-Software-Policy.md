@@ -13,7 +13,7 @@ tags: [hr, remote-work, wfh, IT]
 ```mermaid
 kanban
   Software requirements
-    [We use different programs for different aspects of the job to help us collaborate.]
+    [This diagram lists the software needed to get started at Acme Corp.]
   Communication
     [Skype for business]
   [Web browsing]
