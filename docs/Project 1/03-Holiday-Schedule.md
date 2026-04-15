@@ -9,11 +9,9 @@ tags: [hr, remote-work, wfh, IT]
 
  <p>The office is typically closed on the days listed in the diagram below. </p>
 
-
- ```mermaid
- kanban
-  accTitle: Holiday schedule for 2026
-  accDescr: a graphic showing the days in 2026 where our offices will be closed due to a holiday.
+kanban
+  accTitle: 2026 Holiday Schedule
+  accDescr: A Kanban board showing major US holidays organized by month from January to December.
   January
     [New Years Day]
   [May]
@@ -26,4 +24,5 @@ tags: [hr, remote-work, wfh, IT]
   id11[December]
     id2[Christmas Day]
     id3[Day after Christmas]
+
 
