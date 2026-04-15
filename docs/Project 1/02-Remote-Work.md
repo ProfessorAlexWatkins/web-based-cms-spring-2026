@@ -6,7 +6,7 @@ tags: [hr, remote-work, wfh, IT]
 ---
 
 <h1>Remote work policy</h1>
-<p>Employees are allowed to work from home on Fridays.Please use the VPN when you are working from home.</p>
+<p>Employees are allowed to work from home on Fridays. Please use the VPN when you are working from home.</p>
 
 <h2>VPN access</h2>
 <p>To access the file server from home,you need to set up Cisco and then log in via the VPN Network:
