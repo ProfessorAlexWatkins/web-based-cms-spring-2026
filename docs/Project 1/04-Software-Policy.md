@@ -12,6 +12,8 @@ tags: [hr, remote-work, wfh, IT]
 
 ```mermaid
 kanban
+  Software requirements
+    [We use different programs for different aspects of the job to help us collaborate.]
   Communication
     [Skype for business]
   [Web browsing]
