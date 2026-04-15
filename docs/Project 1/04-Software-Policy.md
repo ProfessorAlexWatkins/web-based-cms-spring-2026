@@ -1,5 +1,11 @@
 
-<h2>Software Needed</h2>
+---
+title:  Software required
+status: draft
+audience: all-employees
+tags: [hr, remote-work, wfh, IT]
+---
+<h2>Software needed</h2>
 <p>All employees must have the following software installed:</p>
 
 ```mermaid
