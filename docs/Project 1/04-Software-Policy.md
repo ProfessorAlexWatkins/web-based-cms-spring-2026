@@ -15,10 +15,10 @@ kanban
   Communication
     [Skype for business]
   [Web browsing]
-    id6[Internet Explorer 11]
+    id6[Internet explorer 11]
   id9[Videos]
-    id8[Adobe Flash Player]
-  id10[VPN Network]
+    id8[Adobe flash player]
+  id10[VPN network]
     id8[Cisco]
 
 
