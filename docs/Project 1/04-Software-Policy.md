@@ -8,7 +8,7 @@ tags: [hr, remote-work, wfh, IT]
 
 
 <h2>Software needed</h2>
-<p>All employees must have the following software installed:</p>
+<p>At Acme corp, we undertand the importance of IT security. This is why we ask all employees to have the correct software installed. On your fist day, you'll work together with your manager to make sure your laptop has the needed software. </p>
 
 ```mermaid
 kanban
