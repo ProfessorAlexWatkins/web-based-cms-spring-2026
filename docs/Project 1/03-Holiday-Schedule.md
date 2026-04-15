@@ -7,9 +7,11 @@ tags: [hr, remote-work, wfh, IT]
 
 <h2>Holiday schedule</h2>
 
- <p>The office is typically closed on the following days:</p>
+ <p>The office is typically closed on the days listed in the diagram below. </p>
 
- 
+ ### Deployment Flow
+The following diagram illustrates the deployment pipeline.
+[A detailed text description of the chart can be placed here for full accessibility.]
  ```mermaid
  kanban
   January
