@@ -1,18 +1,10 @@
 name: Sync to Confluence
-
 on:
   push:
     branches:
       - main
     paths:
       - 'docs/**'
-
-jobs:
-  publish:
-    runs-on: ubuntu-latest
-    steps:
-      - name: Checkout Code
-        uses: actions/checkout@v5
 
       - name: Publish Markdown to Confluence
         uses: markdown-confluence/publish-action@v5
