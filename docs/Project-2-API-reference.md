@@ -10,6 +10,7 @@ This is a new feature that let's users change their profile settings to dark mod
 
 Endpoint: `POST /api/users/preferences`
 User can sucessfully save their profile settings as dark, light, or system mode. 
+User will receive a notification of a sucessful or unsucessful update. 
 
 <h2>Authentication:</h2>
 
@@ -22,9 +23,22 @@ Authorization: Bearer <your_token>
 | ------------- | ------------- |
 | Slider button option 1  | Dark mode (boolean: true/fasle)  |
 | Slider button option 2  | Light mode (boolean: true/false)  |
-| Slider button option 3  | System mode (boolean:true/false)  |
+| Slider button option 3  | System mode (boolean: true/false)  |
 
 <h2>Code Samples:</h2>
-
+**Successful update: 200**
+```json
+{
+  "status": "Your profile is updated with your preference",
+  
+}
+```
+**Error/unscucessful update: 401**
+```json
+{
+  "status": "Invalid theme selected",
+  
+}
+```
 
 <h2>Visual Logic:</h2>
