@@ -13,8 +13,8 @@ User can sucessfully save their profile settings as dark, light, or system mode.
 
 <h2>Authentication:</h2>
 
-Authentication required: Bearer token
-
+Authentication required: Yes. Bearer token.
+**Authorization:** 
 Bearer <token>
 
 <h2>Request Details: </h2>
