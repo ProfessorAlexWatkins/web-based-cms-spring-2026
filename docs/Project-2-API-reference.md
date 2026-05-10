@@ -6,16 +6,16 @@ tags: [design, development]
 ---
 
 
-API Overview:
+<h2>API Overview:</h2>
 
 
-Authentication:
+<h2>Authentication:</h2>
 
 
-Request Details:
+<h2>Request Details: </h2>
 
 
-Code Samples:
+<h2>Code Samples:</h2>
 
 
-Visual Logic:
+<h2>Visual Logic:</h2>
