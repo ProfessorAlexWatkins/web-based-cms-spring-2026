@@ -44,7 +44,7 @@ Authorization: Bearer <your_token>
 ```
 
 <h2>Visual Logic:</h2>
-```
+
 ```mermaid
 flowchart TD
     A[User login] -->|Authentication required| B(Bearer token to authorize login)
