@@ -26,6 +26,7 @@ Authorization: Bearer <your_token>
 | Slider button option 3  | System mode (boolean: true/false)  |
 
 <h2>Code Samples:</h2>
+
 **Successful update: 200**
 ```json
 {
