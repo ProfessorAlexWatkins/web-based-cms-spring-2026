@@ -14,7 +14,8 @@ User will receive a notification of a sucessful or unsucessful update.
 
 <h2>Authentication:</h2>
 
-Authentication required: Yes
+**Authentication required: Yes**
+</br>
 Authorization: Bearer <your_token>
 
 <h2>Request Details: </h2>
