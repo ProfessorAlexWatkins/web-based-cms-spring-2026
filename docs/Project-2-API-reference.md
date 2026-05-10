@@ -45,12 +45,14 @@ Authorization: Bearer <your_token>
 
 <h2>Visual Logic:</h2>
 ```
-flowchart TD
+
+```flowchart TD
     A[User login] -->|Authentication required| B(Bearer token to authorize login)
     B --> C{Select profile theme. Dark mode selected}
     C -->|Dark mode| D[API: You selected dark mode]
     C -->|Invalid theme selected| E{API: Do you want to retry?}
     E --> |Yes| C
+```
 
 ```mermaid
 sequenceDiagram
