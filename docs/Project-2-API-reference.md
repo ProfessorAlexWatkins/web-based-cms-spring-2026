@@ -44,3 +44,15 @@ Authorization: Bearer <your_token>
 ```
 
 <h2>Visual Logic:</h2>
+```
+Success message: "Preference updated" on push notification if saved correctly. 
+
+```mermaid
+sequenceDiagram
+    User->>+API: Select theme > Dark mode
+    User->>+API: Confirming theme selection 
+    API-->>-User: Notification: You selected dark mode as your theme
+    API-->>-User: This theme is successfully saved to your profile
+```
+
+    
