@@ -20,9 +20,9 @@ Authorization: Bearer <your_token>
 
 | Request       | User experience |
 | ------------- | ------------- |
-| Radio button option 1  | Dark mode (boolean: true/fasle)  |
-| Radio button option 2  | Light mode (boolean: true/false)  |
-| Radio button option 3  | System mode (boolean:true/false)  |
+| Slider button option 1  | Dark mode (boolean: true/fasle)  |
+| Slider button option 2  | Light mode (boolean: true/false)  |
+| Slider button option 3  | System mode (boolean:true/false)  |
 
 <h2>Code Samples:</h2>
 
