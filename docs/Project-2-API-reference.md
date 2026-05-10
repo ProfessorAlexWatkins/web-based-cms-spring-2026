@@ -45,8 +45,8 @@ Authorization: Bearer <your_token>
 
 <h2>Visual Logic:</h2>
 ```
-
-```flowchart TD
+```mermaid
+flowchart TD
     A[User login] -->|Authentication required| B(Bearer token to authorize login)
     B --> C{Select profile theme. Dark mode selected}
     C -->|Dark mode| D[API: You selected dark mode]
