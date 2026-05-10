@@ -54,12 +54,5 @@ Authorization: Bearer <your_token>
     E --> |Yes| C
 ```
 
-```mermaid
-sequenceDiagram
-    User->>+API: Select theme > Dark mode
-    User->>+API: Confirming theme selection 
-    API-->>-User: Notification: You selected dark mode as your theme
-    API-->>-User: This theme is successfully saved to your profile
-```
 
     
