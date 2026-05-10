@@ -45,7 +45,7 @@ Authorization: Bearer <your_token>
 
 <h2>Visual Logic:</h2>
 ```
-Success message: "Preference updated" on push notification if saved correctly. 
+
 
 ```mermaid
 sequenceDiagram
