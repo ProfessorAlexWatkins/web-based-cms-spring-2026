@@ -15,7 +15,7 @@ User can sucessfully save their profile settings as dark, light, or system mode.
 
 Authentication required: Bearer token
 
-Bearer<token>
+Bearer <token>
 
 <h2>Request Details: </h2>
 
